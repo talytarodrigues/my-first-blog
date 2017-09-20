@@ -25,7 +25,7 @@ SECRET_KEY = '3#b2deg=st)$92uoezk4on#ug++d5^yvr!eii3hlr9sne#eu8='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'talyta.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'talytarodrigues.pythonanywhere.com']
 
 
 # Application definition
